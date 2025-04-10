@@ -1,38 +1,56 @@
-## Gabriel Miguel  
-**Full Stack Developer | Especialista en Automatización y Manejo de Datos**
+# Gabriel Miguel
+**Full Stack Developer | Creador de Aplicaciones Web App-Like (PWA)**
 
-Desarrollador con sólida experiencia en la creación de aplicaciones completas usando **React** (frontend) y **Node.js** (backend), con un fuerte énfasis en la **automatización** y el **procesamiento masivo de datos**. A continuación, se describen algunas de mis competencias clave y las tecnologías que domino:
+Apasionado por el desarrollo de **aplicaciones web** con experiencia similar a las **apps móviles**—diseñadas para ser rápidas, responsivas y capaces de aprovechar las capacidades de los navegadores modernos (PWA). Con fuerte dominio de **React** (frontend) y **Node.js** (backend), he implementado soluciones creativas en **scraping**, bots de mensajería y librerías **open source** enfocadas en la manipulación de datos.
 
-### Puntos Destacados
+Mi enfoque se basa en **arquitecturas limpias**, **código autodocumentado**, y el uso estratégico de **IA** para acelerar procesos de diseño y desarrollo. Todo ello con la motivación de ofrecer **experiencias fluidas** y un **alto nivel de mantenibilidad**.
 
-1. **Automatización y Bots de Mensajería**  
-   - Creación de scripts para **scraping** y automatización (Puppeteer, Selenium, Playwright).  
-   - Implementación de bots multisesión con **@whiskeysockets/baileys** y **Telethon**, posibilitando el envío masivo y automatizado de mensajes en plataformas como WhatsApp y Telegram.
+---
 
-2. **Integración de APIs y Servicios**  
-   - Conexión fluida con **Google APIs**, **OpenAI API**, Slack, Twitter, y otros servicios REST.  
-   - Diseño de **microservicios** y endpoints, aplicando inyección de dependencias y separación de responsabilidades para una arquitectura escalable.
+## Puntos Destacados
 
-3. **Bases de Datos y Procesamiento**  
-   - Uso de **MongoDB**, **MariaDB** y **Redis** en producción, optimizando consultas, índices y escalabilidad.  
-   - Exploración de **Elasticsearch** para búsquedas avanzadas y alto volumen de datos, así como otras soluciones big data.
+1. **Aplicaciones Web App-Like (PWAs)**  
+   - Diseño de **interfaces en React/Next.js** con rendimiento y UX cercanos a apps móviles.
+   - Uso de optimizaciones y patrones de carga progresiva, generando una sensación de inmediatez y fluidez.
 
-4. **Frontend en React**  
-   - Desarrollo de **interfaces en React** y **Next.js**, enfocadas en la experiencia de usuario (UX).  
-   - Construcción de **tableros dinámicos** con **React Table**, integración de MUI y Styled Components para un diseño modular.  
-   - Manejo de formularios complejos con **React Hook Form**, incluyendo validaciones personalizadas y envío de datos en tiempo real.
+2. **Automatización y Bots de Mensajería**  
+   - Construcción de **scripts de scraping** (Puppeteer, Selenium, Playwright).
+   - Desarrollo de **bots multisesión** en WhatsApp/Telegram con gran capacidad de orquestación.
 
-5. **Buenas Prácticas y DevOps**  
-   - Contenerización con **Docker**, orquestación inicial con Kubernetes.  
-   - Configuración de canalizaciones **CI/CD** (GitHub Actions, Jenkins).  
-   - Orientación a principios de **Clean Code**, SRP, DIP, TDD y YAGNI para lograr código mantenible y extensible.
+3. **Librerías Open Source**
+   - **Talberos**: Tabla estilo Excel para React/Next.js con filtrado, ordenamiento, selección de celdas, edición en línea, exportación y manejo de temas.
+   - Basado en principios **SOLID** y orientado a escalabilidad y personalización.
 
-### Tecnologías Principales
+4. **Integrador de IA y Arquitecturas**
+   - Apoyo en **IA** (asistida o generativa) para impulsar diseños de arquitectura más rápidos y robustos.
+   - Fomento de la **autodocumentación** y la fácil adaptabilidad.
 
-|                   | ✅ **Experimentado**                                                                                                                 | 🔁 **Experimentando**                                       | 🆕 **Experimentar**                                                              |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------|
-| **Lenguajes**     | JavaScript, Python, **TypeScript**                                                                                                  | -                                                           | Go, Rust, Web3                                                                  |
-| **Frontend**      | React, Next.js, MUI, **React Table**, Styled Components                                                                             | -                                                           | -                                                                               |
-| **Backend**       | Node.js (Express, REST APIs), Automatización y Web Scraping (Puppeteer, Selenium, Playwright), Bots (Baileys, Telethon)             | Slack/Twitter API                                          | Facebook Graph API                                                              |
-| **Databases**     | **MongoDB**, **MariaDB**, Redis                                                                                                     | -                                                           | Elasticsearch, Apache Cassandra                                                |
-| **DevOps / CI/CD**| Docker, GitHub Actions                                                                                                              | Jenkins                                                     | Kubernetes, Ansible                                                             |
+5. **Frontend en React/Next.js**
+   - Desarrollo de **interfaces dinámicas** y escalables, con React Hook Form y Styled Components.
+   - Creación de **dashboards** y **tableros de datos** con MUI y componentes personalizados.
+
+6. **Buenas Prácticas y DevOps**
+   - Contenedorización con **Docker**, pipelines CI/CD (GitHub Actions, Jenkins). Conocimientos básicos de Kubernetes.
+   - Enfoque en **Clean Code**, TDD y principios SRP, DIP para software robusto y mantenible.
+
+---
+
+## Tecnologías Principales
+- **Lenguajes:** JavaScript, TypeScript, Python
+- **Frontend:** React, Next.js, Talberos (Tabla tipo Excel), MUI, Styled Components, React Hook Form
+- **Backend:** Node.js (Express, REST APIs), Web Scraping (Puppeteer, Selenium, Playwright), Bots (multiplataforma)
+- **DevOps / CI/CD:** Docker, GitHub Actions, Jenkins, nociones de Kubernetes
+
+---
+
+### Contacto
+- **Email**: [ceo@synara.ar](mailto:ceo@synara.ar)
+- **LinkedIn**: [linkedin.com/in/gabrielmiguelok](https://www.linkedin.com/in/gabrielmiguelok)
+- **GitHub**: [github.com/gabrielmiguelok](https://github.com/gabrielmiguelok)
+
+---
+
+¡Gracias por leer mi perfil! Disfruto impulsando la **colaboración** y la **calidad** en cada proyecto, aprovechando la automatización y la IA para diseñar soluciones web modernas y amigables. Siempre abierto a nuevos desafíos y oportunidades para compartir conocimiento.
+
+**_“El mejor código es aquel que se explica por sí mismo: claro, directo y diseñado para extenderse sin fricciones.”_**
+
